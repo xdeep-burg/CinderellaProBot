@@ -57,7 +57,10 @@ def vercheck() -> str:
     return str(VERSION)
 
 
-SOURCE_STRING =
+SOURCE_STRING ="""
+⚡I'm built in python3, using the python-telegram-bot library, and am fully opensource - you can find what makes me tick
+
+"""
 
 
 IMPORTED = {}
